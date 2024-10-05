@@ -35,14 +35,14 @@ The key system pages are shown in Figure 1. We will introduce the more complex f
 The system architecture is shown in Figure 2. The front end is developed using React Native, while the back end uses Python's FastAPI framework. The database is PostgreSQL, and the deep learning frameworks are TensorFlow and PyTorch. Aside from our models, we also use the clothing recognition model DeepFashion2, the language model Gemini, the virtual try-on model IDM-VTON, and a weather API.
 
 <p align="center" width="1200">
-  <img alt="image" src="https://github.com/user-attachments/assets/612f764c-3615-4f3a-8be9-5f1909f37bec">
+  <img alt="image" src="https://github.com/user-attachments/assets/02053759-e3cc-48f5-9865-c32ca77f18bf">
   <p align="center">▲ Figure 2: System Architecture Diagram</p>
 </p>
 
 Figure 3 illustrates the key system processes. We will introduce the more technically challenging parts, with the blue box labels corresponding to the numbered points below.
 
 <p align="center" width="1200">
-  <img alt="image" src="https://github.com/user-attachments/assets/7764d2e3-08a6-4313-a436-438927eb9647">
+  <img alt="image" src="https://github.com/user-attachments/assets/bc814124-2d6a-4c72-9821-75cc00ea926b">
   <p align="center">▲ Figure 3: Key System Process Diagram</p>
 </p>
 
